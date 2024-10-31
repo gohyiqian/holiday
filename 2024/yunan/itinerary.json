@@ -32,20 +32,19 @@
       ]
     },
     {
-      "dayTitle": "DAY 3: 14/11/24 - 丽江 NIGHT 2",
+      "dayTitle": "DAY 4: 15/11/24 - 飞来寺·梅里 NIGHT 1",
       "activities": [
-        { "time": "10:00", "description": "Chill day at 丽江" },
-        { "time": "15:00", "description": "Tour 白沙镇 or 虎跳峡景区" },
-        { "time": "16:00", "description": "Back to 丽江古城" },
-        { "time": "18:00", "description": "Dinner@忠义夜市" }
+        { "time": "07:00", "description": "Check Out 丽江古城" },
+        { "time": "08:32", "description": "C441 丽江站 to 香格里拉站" },
+        { "time": "09:45", "description": "Reached 香格里拉站" },
+        { "time": "10:00", "description": "Go 香格里拉汽车客运站售票处" },
+        { "time": "10:30", "description": "Bus 4 hr to 德钦（飞来寺)" },
+        { "time": "17:00", "description": "Check In Hotel@飞来寺/梅里" },
+        { "time": "18:00", "description": "Rest for the day" }
       ]
     },
     {
-      "dayTitle": "DAY 4: 14/11/24 - 丽江 NIGHT 2",
-      "activities": [{ "time": "10:00", "description": "Chill day at 丽江" }]
-    },
-    {
-      "dayTitle": "DAY 5: 14/11/24 - 丽江 NIGHT 2",
+      "dayTitle": "DAY 5: 16/11/24 - 香格里拉·独克宗 NIGHT 1",
       "activities": [{ "time": "10:00", "description": "Chill day at 丽江" }]
     },
     {
