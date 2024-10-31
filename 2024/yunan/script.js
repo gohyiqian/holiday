@@ -30,13 +30,38 @@ function renderItineraryInfo(data) {
 
   const infoContainer = document.getElementById("itinerary-info");
   infoContainer.innerHTML = `
-    <h1>${data.title}</h1>
+    <div class="title-container">
+      <h1>${data.title}</h1>
+      <button id="toggleButton">Collapse All</button>
+    </div>
     <p><strong>Duration:</strong> ${data.duration}</p>
     <p><strong>Dates:</strong> ${data.startDate} to ${data.endDate}</p>
     <p><strong>Total Trip Cost:</strong> $${totalTripCost}</p>
     <p><strong>Total Cost by YQ:</strong> $${totalCostByYQ}</p>
     <p><strong>Total Cost by ZY:</strong> $${totalCostByZY}</p>
   `;
+
+  // Add event listener to the button to toggle all sections
+  document
+    .getElementById("toggleButton")
+    .addEventListener("click", toggleAllSections);
+}
+
+// Function to toggle all <details> elements
+function toggleAllSections() {
+  const detailsElements = document.querySelectorAll(
+    "#itinerary-container details"
+  );
+  const allOpen = Array.from(detailsElements).every((details) => details.open);
+
+  detailsElements.forEach((details) => {
+    details.open = !allOpen;
+  });
+
+  // Update the button text based on the current state
+  document.getElementById("toggleButton").textContent = allOpen
+    ? "Expand All"
+    : "Collapse All";
 }
 
 // Function to render the day-by-day itinerary
