@@ -40,15 +40,15 @@
       "dayTitle": "DAY 4: 15/11/24 - 飞来寺·梅里 NIGHT 1",
       "activities": [
         { "time": "07:00", "description": "Check Out 丽江古城" },
-        { "time": "08:32", "description": "C441 丽江站 to 香格里拉站" },
+        { "time": "08:32", "description": "HSR-C441 丽江站 to 香格里拉站" },
         { "time": "09:45", "description": "Reached 香格里拉站" },
-        { "time": "10:00", "description": "Go 香格里拉汽车客运站售票处" },
+        { "time": "10:00", "description": "Go 香格里拉汽车客运站 售票处" },
         { "time": "10:30", "description": "Bus 4 hr to 德钦（飞来寺)" },
         {
           "time": "16:00",
-          "description": "Check In",
-          "location": "Hotel@飞来寺/梅里",
-          "url": "https://example.com/lijiang-hotel"
+          "description": "Check In ",
+          "location": "Xuelong Meili Yiju Hotel",
+          "url": "https://www.trip.com/hotels/detail/?hotelId=14621292&checkIn=2024-11-15&checkOut=2024-11-16&locale=en-XX"
         },
         { "time": "18:00", "description": "Rest for the day" }
       ]
@@ -57,37 +57,58 @@
       "dayTitle": "DAY 5: 16/11/24 - 香格里拉·独克宗 NIGHT 1",
       "activities": [
         { "time": "06:00", "description": "Watch 梅里雪山日早金山" },
-        { "time": "11:00", "description": "Check Out Hotel@飞来寺/梅里" },
-        { "time": "10:00", "description": "Go 独克宗古城" },
+        { "time": "12:00", "description": "Check Out Hotel@飞来寺/梅里" },
+        { "time": "13:00", "description": "Go 独克宗古城" },
         {
-          "time": "16:00",
+          "time": "14:00",
           "description": "Check In",
           "location": "Hotel@独克宗古城",
           "url": "https://example.com/lijiang-hotel"
         },
-        { "time": "10:00", "description": "Go 龟山公园 turn 大佛寺转经筒" },
-        { "time": "10:00", "description": "Dinner@独克宗古城" },
-        { "time": "10:00", "description": "Supper@古城四方街" }
+        { "time": "15:00", "description": "Go 龟山公园 turn 大佛寺转经筒" },
+        { "time": "18:00", "description": "Dinner@独克宗古城" },
+        { "time": "20:00", "description": "Supper@古城四方街" }
       ]
     },
     {
-      "dayTitle": "DAY 6: 14/11/24 - 丽江 NIGHT 2",
+      "dayTitle": "DAY 6: 17/11/24 - 香格里拉·独克宗 NIGHT 2",
+      "activities": [
+        { "time": "08:00", "description": "纳帕海(Napa Lake) & 依拉草原" },
+        { "time": "09:00", "description": "Chill at 黑豆咖啡屋" },
+        { "time": "14:00", "description": "Go 松赞林寺(SongZanlin Monastery)" },
+        { "time": "18:00", "description": "Public Bus back to 独克宗古城" }
+      ]
+    },
+    {
+      "dayTitle": "DAY 7: 18/11/24 - 香格里拉镇 NIGHT 1",
+      "activities": [
+        { "time": "07:30", "description": "Check Out" },
+        {
+          "time": "08:00",
+          "description": "Hire car from 香格里拉站 to 香格里拉镇"
+        },
+        {
+          "time": "13:00",
+          "description": "Walk to 稻城亚丁景区游客中心 take 观光车"
+        },
+        { "time": "13:30", "description": "稻城亚丁 短线" },
+        {
+          "time": "14:00",
+          "description": "Trek 亚丁村 -> 冲古寺 -> 珍珠海"
+        },
+        { "time": "18:00", "description": "Dinner@香格里拉镇" }
+      ]
+    },
+    {
+      "dayTitle": "DAY 8: 19/11/24 - 香格里拉镇 NIGHT 2",
       "activities": [{ "time": "10:00", "description": "Chill day at 丽江" }]
     },
     {
-      "dayTitle": "DAY 7: 14/11/24 - 丽江 NIGHT 2",
+      "dayTitle": "DAY 9: 20/11/24 -香格里拉镇 > 丽江",
       "activities": [{ "time": "10:00", "description": "Chill day at 丽江" }]
     },
     {
-      "dayTitle": "DAY 8: 14/11/24 - 丽江 NIGHT 2",
-      "activities": [{ "time": "10:00", "description": "Chill day at 丽江" }]
-    },
-    {
-      "dayTitle": "DAY 9: 14/11/24 - 丽江 NIGHT 2",
-      "activities": [{ "time": "10:00", "description": "Chill day at 丽江" }]
-    },
-    {
-      "dayTitle": "DAY 4: 14/11/24 - 丽江 NIGHT 2",
+      "dayTitle": "DAY 4: 21/11/24 - 丽江 NIGHT 1",
       "activities": [{ "time": "10:00", "description": "Chill day at 丽江" }]
     },
     {
