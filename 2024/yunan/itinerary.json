@@ -1,11 +1,11 @@
 {
   "title": "Yunnan Itinerary",
   "duration": "15 Days",
-  "startDate": "November 12, 2024",
-  "endDate": "November 27, 2024",
+  "startDate": "Nov 12, 2024",
+  "endDate": "Nov 27, 2024",
   "days": [
     {
-      "dayTitle": "DAY 1: 12/11/24 - SG > 昆明",
+      "dayTitle": "DAY 1: 12/11 - SG > 昆明",
       "activities": [
         {
           "time": "22:00",
@@ -16,11 +16,11 @@
       ]
     },
     {
-      "dayTitle": "DAY 2: 13/11/24 - 昆明 > 丽江 NIGHT 1",
+      "dayTitle": "DAY 2: 13/11 - 昆明 > 丽江 NIGHT 1",
       "activities": [
         { "time": "02:00", "description": "Arrive 昆明长水 国际机场" },
         { "time": "04:00", "description": "Breakfast at 机场" },
-        { "time": "04:30", "description": "DiDi to 昆明火车站 (Opens 5am)" },
+        { "time": "04:30", "description": "滴滴 to 昆明火车站 (Opens 5am)" },
         {
           "time": "07:13",
           "description": "Train D8792 昆明站 to 丽江站",
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "dayTitle": "DAY 3: 14/11/24 - 丽江 NIGHT 2",
+      "dayTitle": "DAY 3: 14/11 - 丽江 NIGHT 2",
       "activities": [
         { "time": "10:00", "description": "Chill day at 丽江" },
         { "time": "15:00", "description": "Tour 白沙镇 or 虎跳峡景区" },
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "dayTitle": "DAY 4: 15/11/24 - 飞来寺 · 梅里 NIGHT 1",
+      "dayTitle": "DAY 4: 15/11 - 飞来寺|梅里 NIGHT 1",
       "activities": [
         { "time": "07:00", "description": "Check Out 丽江古城" },
         {
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "dayTitle": "DAY 5: 16/11/24 - 香格里拉 · 独克宗 NIGHT 1",
+      "dayTitle": "DAY 5: 16/11 - 香格里拉|独克宗 NIGHT 1",
       "activities": [
         { "time": "06:00", "description": "Watch 梅里雪山 日早金山" },
         { "time": "12:00", "description": "Check Out Hotel@飞来寺/梅里" },
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "dayTitle": "DAY 6: 17/11/24 - 香格里拉 · 独克宗 NIGHT 2",
+      "dayTitle": "DAY 6: 17/11 - 香格里拉|独克宗 NIGHT 2",
       "activities": [
         { "time": "08:00", "description": "纳帕海(Napa Lake) & 依拉草原" },
         { "time": "09:00", "description": "Chill at 黑豆咖啡屋" },
@@ -107,17 +107,17 @@
       ]
     },
     {
-      "dayTitle": "DAY 7: 18/11/24 - 香格里拉镇 · 稻城亚丁 NIGHT 1",
+      "dayTitle": "DAY 7: 18/11 - 香格里拉镇|稻城亚丁 NIGHT 1",
       "activities": [
-        { "time": "07:30", "description": "Check Out" },
+        { "time": "07:00", "description": "Check Out" },
         {
           "time": "08:00",
-          "description": "Hire car from 香格里拉站 to 香格里拉镇"
+          "description": "Car 6 hour from 香格里拉Hotel to 亚丁旅游客运站"
         },
         {
           "time": "13:00",
           "description": "Check In",
-          "location": "Ziyu B&B 子遇·MeetYou度假轻奢民宿",
+          "location": "Ziyu B&B 子遇·MeetYou 度假轻奢民宿",
           "url": "https://www.trip.com/hotels/Daocheng-hotel-detail-37884919/Ziyu-B&B?checkin=2024-11-18&checkout=2024-11-20&adult=2&children=0&ages=&crn=1",
           "cost": 142.04,
           "bookedBy": "ZY"
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "dayTitle": "DAY 8: 19/11/24 - 香格里拉镇 · 稻城亚丁 NIGHT 2",
+      "dayTitle": "DAY 8: 19/11 - 香格里拉镇|稻城亚丁 NIGHT 2",
       "activities": [
         {
           "time": "08:00",
@@ -150,18 +150,30 @@
       ]
     },
     {
-      "dayTitle": "DAY 9: 20/11/24 -香格里拉镇 > 丽江",
-      "activities": [{ "time": "10:00", "description": "Chill day at 丽江" }]
+      "dayTitle": "DAY 9: 20/11 - 丽江 NIGHT 1",
+      "activities": [
+        { "time": "08:00", "description": "Check Out Hotel@香格里拉镇" },
+        {
+          "time": "08:00",
+          "description": "Car/Bus 6 hour from 亚丁旅游客运站 to 香格里拉汽车客运站"
+        },
+        {
+          "time": "17:00",
+          "description": "HSR-D8678 香格里拉站 to 丽江站",
+          "cost": 61.6,
+          "bookedBy": "YQ"
+        }
+      ]
     },
     {
-      "dayTitle": "DAY 10: 21/11/24 - 丽江 NIGHT 1",
+      "dayTitle": "DAY 10: 21/11 - 丽江 NIGHT 2",
       "activities": [
         { "time": "06:00", "description": "Arrange shuttle for 玉龙雪山" },
         { "time": "10:00", "description": "Cable Car up to 玉龙雪山" }
       ]
     },
     {
-      "dayTitle": "DAY 11: 22/11/24 - 大理 NIGHT 1",
+      "dayTitle": "DAY 11: 22/11 - 大理 NIGHT 1",
       "activities": [
         { "time": "09:15", "description": "Reached Dali Station" },
         { "time": "10:00", "description": "Explore Erhai Lake" },
@@ -176,36 +188,36 @@
       ]
     },
     {
-      "dayTitle": "DAY 12: 23/11/24 - 大理 NIGHT 2",
+      "dayTitle": "DAY 12: 23/11 - 大理 NIGHT 2",
       "activities": [
         { "time": "08:00", "description": "Book car to 腾冲银杏村景区" }
       ]
     },
     {
-      "dayTitle": "DAY 13: 24/11/24 - 大理 NIGHT 3",
+      "dayTitle": "DAY 13: 24/11 - 大理 NIGHT 3",
       "activities": [
         { "time": "08:00", "description": "Explore" },
         { "time": "11:00", "description": "Check Out" },
         {
           "time": "12:20",
-          "description": "HSR-D8792 昆明站 to 丽江站",
+          "description": "HSR-D8678 昆明站 to 大理站",
           "cost": 61.6,
           "bookedBy": "YQ"
         }
       ]
     },
     {
-      "dayTitle": "DAY 14: 25/11/24 - 昆明 NIGHT 1",
+      "dayTitle": "DAY 14: 25/11 - 昆明 NIGHT 1",
       "activities": [{ "time": "08:00", "description": "Explore" }]
     },
     {
-      "dayTitle": "DAY 15: 26/11/24 - 昆明 NIGHT 2",
+      "dayTitle": "DAY 15: 26/11 - 昆明 NIGHT 2",
       "activities": [{ "time": "08:00", "description": "Explore" }]
     },
     {
-      "dayTitle": "DAY 16: 27/11/24 - 昆明 > SG",
+      "dayTitle": "DAY 16: 27/11 - 昆明 > SG",
       "activities": [
-        { "time": "12:00", "description": "Go Airport" },
+        { "time": "12:00", "description": "滴滴 to Airport" },
         { "time": "03:00", "description": "Fly back" }
       ]
     }
