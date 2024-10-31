@@ -119,20 +119,52 @@
       "activities": [{ "time": "10:00", "description": "Chill day at 丽江" }]
     },
     {
-      "dayTitle": "DAY 4: 21/11/24 - 丽江 NIGHT 1",
-      "activities": [{ "time": "10:00", "description": "Chill day at 丽江" }]
+      "dayTitle": "DAY 10: 21/11/24 - 丽江 NIGHT 1",
+      "activities": [
+        { "time": "06:00", "description": "Arrange shuttle for 玉龙雪山" },
+        { "time": "10:00", "description": "Cable Car up to 玉龙雪山" },
+        { "time": "10:00", "description": "Cable Car up to 玉龙雪山" }
+      ]
     },
     {
-      "dayTitle": "DAY 4: 14/11/24 - 丽江 NIGHT 2",
-      "activities": [{ "time": "10:00", "description": "Chill day at 丽江" }]
+      "dayTitle": "DAY 11: 22/11/24 - 大理 NIGHT 1",
+      "activities": [
+        { "time": "09:15", "description": "Reached Dali Station" },
+        { "time": "10:00", "description": "Explore Erhai Lake" },
+        { "time": "13:15", "description": "Lunch @" },
+        { "time": "14:00", "description": "Check-in HOTEL @" },
+        { "time": "15:00", "description": "Explore 大理古城 Dali Old Town" },
+        { "time": "16:00", "description": "Explore 喜洲古镇 Xizhou Village" },
+        {
+          "time": "17:00",
+          "description": "Visit Sound on the Clouds Hotel Santorini"
+        }
+      ]
     },
     {
-      "dayTitle": "DAY 4: 14/11/24 - 丽江 NIGHT 2",
-      "activities": [{ "time": "10:00", "description": "Chill day at 丽江" }]
+      "dayTitle": "DAY 12: 23/11/24 - 大理 NIGHT 2",
+      "activities": [
+        { "time": "08:00", "description": "Book car to 腾冲银杏村景区" }
+      ]
     },
     {
-      "dayTitle": "DAY 4: 14/11/24 - 丽江 NIGHT 2",
-      "activities": [{ "time": "10:00", "description": "Chill day at 丽江" }]
+      "dayTitle": "DAY 13: 24/11/24 - 大理 NIGHT 3",
+      "activities": [{ "time": "08:00", "description": "Explore" }]
+    },
+    {
+      "dayTitle": "DAY 14: 25/11/24 - 昆明 NIGHT 1",
+      "activities": [{ "time": "08:00", "description": "Explore" }]
+    },
+    {
+      "dayTitle": "DAY 15: 26/11/24 - 昆明 NIGHT 2",
+      "activities": [{ "time": "08:00", "description": "Explore" }]
+    },
+    {
+      "dayTitle": "DAY 16: 27/11/24 - 昆明 > SG",
+      "activities": [
+        { "time": "12:00", "description": "Go Airport" },
+        { "time": "03:00", "description": "Fly back" }
+      ]
     }
   ]
 }
