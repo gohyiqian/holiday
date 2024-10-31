@@ -47,8 +47,9 @@
         {
           "time": "16:00",
           "description": "Check In ",
-          "location": "Xuelong Meili Yiju Hotel 德钦雪龙·梅里逸居酒店 - $224.04",
-          "url": "https://www.trip.com/hotels/detail/?hotelId=14621292&checkIn=2024-11-15&checkOut=2024-11-16&locale=en-XX"
+          "location": "Xuelong Meili Yiju Hotel 德钦雪龙·梅里逸居酒店",
+          "url": "https://www.trip.com/hotels/detail/?hotelId=14621292&checkIn=2024-11-15&checkOut=2024-11-16&locale=en-XX",
+          "cost": "$224.04"
         },
         { "time": "18:00", "description": "Rest for the day" }
       ]
@@ -62,8 +63,9 @@
         {
           "time": "14:00",
           "description": "Check In",
-          "location": "QiYu Oxygen Supply Homestay 栖屿·供氧民宿(香格里拉古城店) - $100.02",
-          "url": "https://www.trip.com/hotels/Shangri-La-hotel-detail-122454532/Shangri-La-QiYu-Oxygen-Supply-Homestay/?locale=en_xx&fromfavorites=1&tid=H0011_10650019167&curr=SGD"
+          "location": "QiYu Oxygen Supply Homestay 栖屿·供氧民宿(香格里拉古城店)",
+          "url": "https://www.trip.com/hotels/Shangri-La-hotel-detail-122454532/Shangri-La-QiYu-Oxygen-Supply-Homestay/?locale=en_xx&fromfavorites=1&tid=H0011_10650019167&curr=SGD",
+          "cost": " $100.02"
         },
         { "time": "15:00", "description": "Go 龟山公园 turn 大佛寺转经筒" },
         { "time": "18:00", "description": "Dinner@独克宗古城" },
@@ -89,6 +91,13 @@
         },
         {
           "time": "13:00",
+          "description": "Check In",
+          "location": "Ziyu B&B 子遇·MeetYou度假轻奢民宿",
+          "url": "https://www.trip.com/hotels/Daocheng-hotel-detail-37884919/Ziyu-B&B?checkin=2024-11-18&checkout=2024-11-20&adult=2&children=0&ages=&crn=1",
+          "cost": "$142.04"
+        },
+        {
+          "time": "14:00",
           "description": "Walk to 稻城亚丁景区游客中心 take 观光车"
         },
         { "time": "13:30", "description": "稻城亚丁 短线" },

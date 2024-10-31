@@ -3,7 +3,7 @@ body {
   font-family: Arial, sans-serif;
   background-color: #f7f7f7;
   color: #333;
-  margin: 10;
+  margin: 0;
   padding: 0;
 }
 
@@ -67,12 +67,15 @@ table {
 }
 
 table,
+th,
 td {
   border: 1px solid #ddd;
 }
 
+th,
 td {
   padding: 10px;
+  text-align: left;
 }
 
 /* Container styling */
@@ -83,4 +86,10 @@ td {
   padding: 20px;
   background-color: white;
   border-radius: 8px;
+}
+
+/* Styling for total cost row */
+table tr:last-child td {
+  font-weight: bold;
+  background-color: #f0f0f0;
 }
