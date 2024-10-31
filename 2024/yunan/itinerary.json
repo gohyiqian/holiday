@@ -18,12 +18,12 @@
     {
       "dayTitle": "DAY 2: 13/11/24 - 昆明 > 丽江 NIGHT 1",
       "activities": [
-        { "time": "02:00", "description": "Arrive 昆明长水国际机场" },
-        { "time": "04:00", "description": "Breakfast at 昆明长水国际机场" },
+        { "time": "02:00", "description": "Arrive 昆明长水 国际机场" },
+        { "time": "04:00", "description": "Breakfast at 机场" },
         { "time": "04:30", "description": "DiDi to 昆明火车站 (Opens 5am)" },
         {
           "time": "07:13",
-          "description": "HSR-D8792 昆明站 to 丽江站",
+          "description": "Train D8792 昆明站 to 丽江站",
           "cost": 86.76,
           "bookedBy": "YQ"
         },
@@ -37,7 +37,7 @@
           "cost": 176.86,
           "bookedBy": "ZY"
         },
-        { "time": "15:00", "description": "Shop at 忠义" },
+        { "time": "15:00", "description": "Shop at 忠义 Market" },
         { "time": "18:00", "description": "Dinner@丽江古城" }
       ]
     },
@@ -56,7 +56,7 @@
         { "time": "07:00", "description": "Check Out 丽江古城" },
         {
           "time": "08:32",
-          "description": "HSR-C441 丽江站 to 香格里拉站",
+          "description": "Train C441 丽江站 to 香格里拉站",
           "cost": 33.89,
           "bookedBy": "YQ"
         },

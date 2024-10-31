@@ -32,8 +32,7 @@ function renderItineraryInfo(data) {
   infoContainer.innerHTML = `
     <h1>${data.title}</h1>
     <p><strong>Duration:</strong> ${data.duration}</p>
-    <p><strong>Start Date:</strong> ${data.startDate}</p>
-    <p><strong>End Date:</strong> ${data.endDate}</p>
+    <p><strong>Dates:</strong> ${data.startDate} to ${data.endDate}</p>
     <p><strong>Total Trip Cost:</strong> $${totalTripCost}</p>
     <p><strong>Total Cost by YQ:</strong> $${totalCostByYQ}</p>
     <p><strong>Total Cost by ZY:</strong> $${totalCostByZY}</p>
@@ -87,7 +86,7 @@ function renderItinerary(data) {
                 }
               </td>
               <td style="${bookedByStyle}">${activity.bookedBy || "-"}</td>
-              <td>${activity.cost ? `$${activity.cost}` : "-"}</td>
+              <td>${activity.cost ? `$${activity.cost}` : 0}</td>
             </tr>
           `;
           })
