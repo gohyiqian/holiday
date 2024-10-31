@@ -9,16 +9,24 @@ fetch("itinerary.json")
 
 // Function to render the itinerary info section
 function renderItineraryInfo(data) {
-  // Calculate the total trip cost by summing all activity costs
-  const totalTripCost = data.days.reduce((total, day) => {
-    return (
-      total +
-      day.activities.reduce(
-        (dayTotal, activity) => dayTotal + (activity.cost || 0),
-        0
-      )
-    );
-  }, 0);
+  // Calculate the total trip cost, and individual costs for YQ and ZY
+  let totalTripCost = 0;
+  let totalCostByYQ = 0;
+  let totalCostByZY = 0;
+
+  data.days.forEach((day) => {
+    day.activities.forEach((activity) => {
+      const cost = activity.cost || 0;
+      totalTripCost += cost;
+
+      // Sum up costs based on `bookedBy`
+      if (activity.bookedBy === "YQ") {
+        totalCostByYQ += cost;
+      } else if (activity.bookedBy === "ZY") {
+        totalCostByZY += cost;
+      }
+    });
+  });
 
   const infoContainer = document.getElementById("itinerary-info");
   infoContainer.innerHTML = `
@@ -27,6 +35,8 @@ function renderItineraryInfo(data) {
     <p><strong>Start Date:</strong> ${data.startDate}</p>
     <p><strong>End Date:</strong> ${data.endDate}</p>
     <p><strong>Total Trip Cost:</strong> $${totalTripCost}</p>
+    <p><strong>Total Cost by YQ:</strong> $${totalCostByYQ}</p>
+    <p><strong>Total Cost by ZY:</strong> $${totalCostByZY}</p>
   `;
 }
 
