@@ -49,10 +49,9 @@ function renderItinerary(data) {
     daySection.open = true;
 
     // Calculate the total cost for the day
-    let totalCost = day.activities.reduce(
-      (sum, activity) => sum + (activity.cost || 0),
-      0
-    );
+    let totalCost = day.activities
+      .reduce((sum, activity) => sum + (activity.cost || 0), 0)
+      .toFixed(2);
 
     // Create the HTML content for the day's details
     daySection.innerHTML = `
@@ -86,7 +85,7 @@ function renderItinerary(data) {
                 }
               </td>
               <td style="${bookedByStyle}">${activity.bookedBy || "-"}</td>
-              <td>${activity.cost ? `$${activity.cost}` : 0}</td>
+              <td>${activity.cost ? `$${activity.cost}` : "-"}</td>
             </tr>
           `;
           })
