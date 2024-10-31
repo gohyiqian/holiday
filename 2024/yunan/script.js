@@ -9,12 +9,24 @@ fetch("itinerary.json")
 
 // Function to render the itinerary info section
 function renderItineraryInfo(data) {
+  // Calculate the total trip cost by summing all activity costs
+  const totalTripCost = data.days.reduce((total, day) => {
+    return (
+      total +
+      day.activities.reduce(
+        (dayTotal, activity) => dayTotal + (activity.cost || 0),
+        0
+      )
+    );
+  }, 0);
+
   const infoContainer = document.getElementById("itinerary-info");
   infoContainer.innerHTML = `
     <h1>${data.title}</h1>
     <p><strong>Duration:</strong> ${data.duration}</p>
     <p><strong>Start Date:</strong> ${data.startDate}</p>
     <p><strong>End Date:</strong> ${data.endDate}</p>
+    <p><strong>Total Trip Cost:</strong> $${totalTripCost}</p>
   `;
 }
 
@@ -50,7 +62,7 @@ function renderItinerary(data) {
               activity.bookedBy === "YQ"
                 ? "color: blue;"
                 : activity.bookedBy === "ZY"
-                ? "color: pink;"
+                ? "color: green;"
                 : "";
 
             return `
