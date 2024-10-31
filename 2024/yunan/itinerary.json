@@ -32,7 +32,7 @@
           "time": "14:00",
           "description": "Check In",
           "location": "Shanyu Nian · Moon Falling City Villa 山屿念·月下倾城villa",
-          "url": "https://www.trip.com/hotels/detail/?hotelId=112406304&checkIn=2024-11-13&checkOut=2024-11-15&locale=en-XX",
+          "url": "https://www.trip.com/hotels/detail/?hotelId=112406304",
           "cost": 176.86,
           "bookedBy": "ZY"
         },
@@ -70,7 +70,7 @@
           "time": "16:00",
           "description": "Check In ",
           "location": "Xuelong Meili Yiju Hotel 德钦雪龙·梅里逸居酒店",
-          "url": "https://www.trip.com/hotels/detail/?hotelId=14621292&checkIn=2024-11-15&checkOut=2024-11-16&locale=en-XX",
+          "url": "https://www.trip.com/hotels/detail/?hotelId=14621292",
           "cost": 224.04,
           "bookedBy": "YQ"
         },
@@ -87,7 +87,7 @@
           "time": "14:00",
           "description": "Check In",
           "location": "QiYu Oxygen Supply Homestay 栖屿·供氧民宿(香格里拉古城店)",
-          "url": "https://www.trip.com/hotels/Shangri-La-hotel-detail-122454532/Shangri-La-QiYu-Oxygen-Supply-Homestay/?locale=en_xx&fromfavorites=1&tid=H0011_10650019167&curr=SGD",
+          "url": "https://www.trip.com/hotels/Shangri-La-hotel-detail-122454532/Shangri-La-QiYu-Oxygen-Supply-Homestay",
           "cost": 100.02,
           "bookedBy": "ZY"
         },
@@ -117,7 +117,7 @@
           "time": "13:00",
           "description": "Check In",
           "location": "Ziyu B&B 子遇·MeetYou 度假轻奢民宿",
-          "url": "https://www.trip.com/hotels/Daocheng-hotel-detail-37884919/Ziyu-B&B?checkin=2024-11-18&checkout=2024-11-20&adult=2&children=0&ages=&crn=1",
+          "url": "https://www.trip.com/hotels/Daocheng-hotel-detail-37884919/Ziyu-B&B",
           "cost": 142.04,
           "bookedBy": "ZY"
         },
@@ -174,7 +174,7 @@
           "time": "19:00",
           "description": "Check In",
           "location": "X Hotel",
-          "url": "https://www.trip.com/hotels/Daocheng-hotel-detail-37884919/Ziyu-B&B?checkin=2024-11-18&checkout=2024-11-20&adult=2&children=0&ages=&crn=1",
+          "url": "https://www.trip.com/hotels/Daocheng-hotel-detail-37884919/Ziyu-B&B",
           "cost": 0,
           "bookedBy": "ZY"
         },
@@ -207,22 +207,19 @@
       "dayTitle": "DAY 11: 22/11 - 大理 NIGHT 1",
       "activities": [
         { "time": "08:00", "description": "Check Out Hotel@丽江" },
-        { "time": "13:15", "description": "Lunch @" },
         {
-          "time": "12:00",
-          "description": "HSR- 丽江站 to 大理站",
-          "cost": 0,
-          "bookedBy": "YQ"
+          "time": "10:00",
+          "description": "Car 2 hr to 大理 Hotel (No HSR ticket)"
         },
         {
-          "time": "14:00",
+          "time": "12:00",
           "description": "Check In",
           "location": "X Hotel",
-          "url": "https://www.trip.com/hotels/Daocheng-hotel-detail-37884919/Ziyu-B&B?checkin=2024-11-18&checkout=2024-11-20&adult=2&children=0&ages=&crn=1",
+          "url": "",
           "cost": 0,
           "bookedBy": "ZY"
         },
-        { "time": "10:00", "description": "Explore Erhai Lake" },
+        { "time": "10:00", "description": "Explore 洱海 Lake" },
         { "time": "15:00", "description": "Explore 大理古城 Dali Old Town" },
         { "time": "16:00", "description": "Explore 喜洲古镇 Xizhou Village" },
         {
@@ -234,14 +231,21 @@
     {
       "dayTitle": "DAY 12: 23/11 - 大理 NIGHT 2",
       "activities": [
-        { "time": "08:00", "description": "Book car to 腾冲银杏村景区" }
+        {
+          "time": "08:00",
+          "description": "Car 2 hr to 无量山樱花谷"
+        },
+        {
+          "time": "12:00",
+          "description": "Car 2hr back to 大理古城"
+        }
       ]
     },
     {
       "dayTitle": "DAY 13: 24/11 - 昆明 NIGHT 1",
       "activities": [
-        { "time": "08:00", "description": "Explore" },
-        { "time": "11:00", "description": "Check Out 大理 Hotel" },
+        { "time": "08:00", "description": "Breakfast@" },
+        { "time": "11:00", "description": "Check Out Hotel@大理" },
         {
           "time": "12:20",
           "description": "HSR-D8678 大理站 to 昆明站",
@@ -253,7 +257,7 @@
           "time": "15:00",
           "description": "Check In",
           "location": "X Hotel",
-          "url": "https://www.trip.com/hotels/Daocheng-hotel-detail-37884919/Ziyu-B&B?checkin=2024-11-18&checkout=2024-11-20&adult=2&children=0&ages=&crn=1",
+          "url": "https://www.trip.com/hotels/detail/?cityId=34&hotelId=51601913&barcurr=SGD&locale=en-XX",
           "cost": 0,
           "bookedBy": "ZY"
         }
@@ -261,17 +265,20 @@
     },
     {
       "dayTitle": "DAY 14: 25/11 - 昆明 NIGHT 2",
-      "activities": [{ "time": "08:00", "description": "Explore" }]
+      "activities": [
+        { "time": "09:00", "description": "Breakfast" },
+        { "time": "10:00", "description": "Shopping at 昆明顺城购物中" }
+      ]
     },
     {
-      "dayTitle": "DAY 15: 26/11 - 昆明 NIGHT 3",
+      "dayTitle": "DAY 15: 26/11 - 昆明 No Stay",
       "activities": [{ "time": "08:00", "description": "Explore" }]
     },
     {
       "dayTitle": "DAY 16: 27/11 - 昆明 > SG",
       "activities": [
-        { "time": "12:00", "description": "滴滴 to Airport" },
-        { "time": "03:00", "description": "Fly back" }
+        { "time": "12:00", "description": "滴滴 to 昆明长水国际机场" },
+        { "time": "03:00", "description": "Fly back SG" }
       ]
     }
   ]
