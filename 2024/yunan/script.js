@@ -34,7 +34,14 @@ function renderItinerary(data) {
             (activity) => `
           <tr>
             <td>${activity.time}</td>
-            <td>${activity.description}</td>
+            <td>
+              ${activity.description} 
+              ${
+                activity.url
+                  ? `<a href="${activity.url}" target="_blank">${activity.location}</a>`
+                  : activity.location || ""
+              }
+            </td>
           </tr>
         `
           )
