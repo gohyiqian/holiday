@@ -15,15 +15,44 @@ h2 {
   margin: 20px 0;
 }
 
-/* Summary button styling for collapsible details */
+/* Styling for the itinerary information section with border */
+.itinerary-info {
+  width: 80%;
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  border: 2px solid #4caf50;
+  box-shadow: 4px 4px 0px rgba(0, 0, 0, 0.1); /* Offset border effect */
+}
+
+/* Styling for collapsible details with border */
+details {
+  position: relative;
+  background-color: #ffffff;
+  padding: 10px;
+  margin: 20px 0;
+  border-radius: 8px;
+  border: 2px solid #4caf50;
+  box-shadow: 4px 4px 0px rgba(0, 0, 0, 0.1);
+}
+
+/* Offset border effect on open state */
+details[open] {
+  box-shadow: 6px 6px 0px rgba(0, 0, 0, 0.15);
+}
+
+/* Summary styling with left border */
 summary {
   font-size: 1.1em;
   font-weight: bold;
   cursor: pointer;
-  background-color: #f0f0f0;
   padding: 10px;
-  border-radius: 5px;
-  margin-bottom: 10px;
+  margin: -10px -10px 10px -10px; /* Align with details border */
+  background-color: #f0f0f0;
+  border-radius: 6px 6px 0 0;
+  border-left: 6px solid #4caf50; /* Distinct left border */
 }
 
 summary:hover {
@@ -46,37 +75,12 @@ td {
   padding: 10px;
 }
 
-/* Section for each day's details */
+/* Container styling */
 .day-section {
   width: 80%;
   max-width: 800px;
-  margin: 20px auto;
+  margin: 0 auto;
   padding: 20px;
   background-color: white;
   border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-/* Offset border styling */
-details {
-  position: relative;
-  background-color: #ffffff;
-  padding: 15px;
-  margin: 20px 0;
-  border-radius: 8px;
-  box-shadow: 4px 4px 0px #4caf50; /* Offset border effect */
-  border: 1px solid #ddd;
-}
-
-details[open] {
-  box-shadow: 6px 6px 0px #4caf50;
-}
-
-summary {
-  padding-left: 10px;
-  border-left: 4px solid #4caf50;
-}
-
-summary:hover {
-  background-color: #f9f9f9;
 }

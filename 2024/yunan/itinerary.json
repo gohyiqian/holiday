@@ -12,7 +12,7 @@
       "dayTitle": "DAY 2: 13/11/24 - 昆明 > 丽江 NIGHT 1",
       "activities": [
         { "time": "02:00", "description": "Arrive 昆明长水国际机场" },
-        { "time": "04:00", "description": "Breakfast@昆明长水国际机场" },
+        { "time": "04:00", "description": "Breakfast at 昆明长水国际机场" },
         { "time": "04:30", "description": "DiDi to 昆明火车站 (Opens 5am)" },
         { "time": "07:13", "description": "HSR D8792 昆明站 to 丽江站" },
         { "time": "10:33", "description": "Reached 丽江站" },
@@ -30,6 +30,55 @@
         { "time": "16:00", "description": "Back to 丽江古城" },
         { "time": "18:00", "description": "Dinner@忠义夜市" }
       ]
+    },
+    {
+      "dayTitle": "DAY 3: 14/11/24 - 丽江 NIGHT 2",
+      "activities": [
+        { "time": "10:00", "description": "Chill day at 丽江" },
+        { "time": "15:00", "description": "Tour 白沙镇 or 虎跳峡景区" },
+        { "time": "16:00", "description": "Back to 丽江古城" },
+        { "time": "18:00", "description": "Dinner@忠义夜市" }
+      ]
+    },
+    {
+      "dayTitle": "DAY 4: 14/11/24 - 丽江 NIGHT 2",
+      "activities": [{ "time": "10:00", "description": "Chill day at 丽江" }]
+    },
+    {
+      "dayTitle": "DAY 5: 14/11/24 - 丽江 NIGHT 2",
+      "activities": [{ "time": "10:00", "description": "Chill day at 丽江" }]
+    },
+    {
+      "dayTitle": "DAY 6: 14/11/24 - 丽江 NIGHT 2",
+      "activities": [{ "time": "10:00", "description": "Chill day at 丽江" }]
+    },
+    {
+      "dayTitle": "DAY 7: 14/11/24 - 丽江 NIGHT 2",
+      "activities": [{ "time": "10:00", "description": "Chill day at 丽江" }]
+    },
+    {
+      "dayTitle": "DAY 8: 14/11/24 - 丽江 NIGHT 2",
+      "activities": [{ "time": "10:00", "description": "Chill day at 丽江" }]
+    },
+    {
+      "dayTitle": "DAY 9: 14/11/24 - 丽江 NIGHT 2",
+      "activities": [{ "time": "10:00", "description": "Chill day at 丽江" }]
+    },
+    {
+      "dayTitle": "DAY 4: 14/11/24 - 丽江 NIGHT 2",
+      "activities": [{ "time": "10:00", "description": "Chill day at 丽江" }]
+    },
+    {
+      "dayTitle": "DAY 4: 14/11/24 - 丽江 NIGHT 2",
+      "activities": [{ "time": "10:00", "description": "Chill day at 丽江" }]
+    },
+    {
+      "dayTitle": "DAY 4: 14/11/24 - 丽江 NIGHT 2",
+      "activities": [{ "time": "10:00", "description": "Chill day at 丽江" }]
+    },
+    {
+      "dayTitle": "DAY 4: 14/11/24 - 丽江 NIGHT 2",
+      "activities": [{ "time": "10:00", "description": "Chill day at 丽江" }]
     }
   ]
 }
