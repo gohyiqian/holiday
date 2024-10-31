@@ -27,26 +27,19 @@ function renderItinerary(data) {
     const daySection = document.createElement("details");
     daySection.open = true;
     daySection.innerHTML = `
-    <summary>${day.dayTitle}</summary>
-    <table>
-      ${day.activities
-        .map(
-          (activity) => `
-        <tr>
-          <td>${activity.time}</td>
-          <td>
-            ${activity.description} 
-            ${
-              activity.url
-                ? `<a href="${activity.url}" target="_blank">${activity.location}</a>`
-                : activity.location || ""
-            }
-          </td>
-        </tr>
-      `
-        )
-        .join("")}
-    </table>
+      <summary>${day.dayTitle}</summary>
+      <table>
+        ${day.activities
+          .map(
+            (activity) => `
+          <tr>
+            <td>${activity.time}</td>
+            <td>${activity.description}</td>
+          </tr>
+        `
+          )
+          .join("")}
+      </table>
     `;
     container.appendChild(daySection);
   });
