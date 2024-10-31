@@ -17,7 +17,7 @@
         { "time": "07:13", "description": "HSR D8792 昆明站 to 丽江站" },
         { "time": "10:33", "description": "Reached 丽江站" },
         { "time": "12:00", "description": "Lunch@丽江古城" },
-        { "time": "14:00", "description": "Check In Hotel@丽江古城" },
+        { "time": "14:00", "description": "Check In", "location": "Hotel@丽江古城", "url": "https://example.com/lijiang-hotel" }
         { "time": "15:00", "description": "Shop at 忠义" },
         { "time": "18:00", "description": "Dinner@丽江古城" }
       ]
@@ -39,13 +39,15 @@
         { "time": "09:45", "description": "Reached 香格里拉站" },
         { "time": "10:00", "description": "Go 香格里拉汽车客运站售票处" },
         { "time": "10:30", "description": "Bus 4 hr to 德钦（飞来寺)" },
-        { "time": "17:00", "description": "Check In Hotel@飞来寺/梅里" },
+        { "time": "16:00", "description": "Check In", "location": "Hotel@飞来寺/梅里", "url": "https://example.com/lijiang-hotel" },
         { "time": "18:00", "description": "Rest for the day" }
       ]
     },
     {
       "dayTitle": "DAY 5: 16/11/24 - 香格里拉·独克宗 NIGHT 1",
-      "activities": [{ "time": "10:00", "description": "Chill day at 丽江" }]
+      "activities": [
+        { "time": "10:00", "description": "Watch 梅里雪山日早金山" }
+      ]
     },
     {
       "dayTitle": "DAY 6: 14/11/24 - 丽江 NIGHT 2",
