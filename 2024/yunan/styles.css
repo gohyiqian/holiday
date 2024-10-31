@@ -1,0 +1,58 @@
+/* Base styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header */
+h1,
+h2 {
+  color: #4caf50;
+  text-align: center;
+  margin: 20px 0;
+}
+
+/* Summary button styling for collapsible details */
+summary {
+  font-size: 1.1em;
+  font-weight: bold;
+  cursor: pointer;
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+summary:hover {
+  background-color: #e0e0e0;
+}
+
+/* Table styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+table,
+td {
+  border: 1px solid #ddd;
+}
+
+td {
+  padding: 10px;
+}
+
+/* Section for each day's details */
+.day-section {
+  width: 80%;
+  max-width: 800px;
+  margin: 0 auto 20px auto;
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
