@@ -40,6 +40,7 @@ function renderItinerary(data) {
         <tr>
           <th>Time</th>
           <th>Description</th>
+          <th>Booked By</th>
           <th>Cost</th>
         </tr>
         ${day.activities
@@ -55,13 +56,14 @@ function renderItinerary(data) {
                   : activity.location || ""
               }
             </td>
+            <td>${activity.bookedBy || "N/A"}</td>
             <td>${activity.cost ? `$${activity.cost}` : "N/A"}</td>
           </tr>
         `
           )
           .join("")}
         <tr>
-          <td colspan="2" style="font-weight: bold; text-align: right;">Total Cost</td>
+          <td colspan="3" style="font-weight: bold; text-align: right;">Total Cost</td>
           <td style="font-weight: bold;">$${totalCost}</td>
         </tr>
       </table>
