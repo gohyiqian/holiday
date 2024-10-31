@@ -1,6 +1,6 @@
 # Yunnan Itinerary
 
-Explore the natural beauty of Yunnan with this 15-day adventure.
+Discover the wonders of Yunnan!
 
 ## Itinerary Overview
 
@@ -10,13 +10,19 @@ Explore the natural beauty of Yunnan with this 15-day adventure.
 
 ## Day 1-3: LiJiang 丽江
 
-> DAY 1: 12/11/24 - SG > 昆明
+---
+
+<details>
+  <summary>DAY 1: 12/11/24 - SG > 昆明</summary>
 
 - 22:00 - Depart Singapore
 
+</details>
+
 ---
 
-> DAY 2: 13/11/24 - 昆明 > 丽江 NIGHT 1 - 1875m
+<details>
+  <summary>DAY 2: 13/11/24 - 昆明 > 丽江 NIGHT 1</summary>
 
 - 02:00 - Arrive 昆明长水国际机场
 - 04:00 - Breakfast@昆明长水国际机场
@@ -28,14 +34,95 @@ Explore the natural beauty of Yunnan with this 15-day adventure.
 - 15:00 - Shop at 忠义
 - 18:00 - Dinner@丽江古城
 
-### Day 4-5: Dali
+</details>
 
-- Explore Dali Ancient City, Three Pagodas, and Erhai Lake.
+---
 
-### Day 6-8: Lijiang
+<details>
+  <summary>DAY 3: 14/11/24 - 丽江 NIGHT 2</summary>
 
-- Head to Lijiang, visit Jade Dragon Snow Mountain, Lijiang Old Town, and Black Dragon Pool.
+- 10:00 - Chill day at 丽江
+- 15:00 - Tour 白沙镇 or 虎跳峡景区
+- 16:00 - Back to 丽江古城
+- 18:00 - Dinner@忠义夜市
 
-<!-- Add more days as needed -->
+</details>
 
-Discover the wonders of Yunnan!
+---
+
+<details>
+  <summary>DAY 4: 15/11/24 - 飞来寺 · 梅里 NIGHT 1</summary>
+
+- 07:00 - Check Out 丽江古城
+- 08:32 - C441 丽江站 to 香格里拉站
+- 09:45 - Reached 香格里拉站
+- 10:00 - Go 香格里拉汽车客运站售票处
+- 10:30 - Bus 4 hr to 德钦（飞来寺
+- 17:00 - Check In Hotel@飞来寺/梅里
+- 18:00 - Rest for the day
+
+</details>
+
+---
+
+<details>
+  <summary>DAY 5: 16/11/24 - 香格里拉 · 独克宗 NIGHT 1</summary>
+
+- 06:00 - Watch 梅里雪山日早金山
+- 11:00 - Check Out Hotel@飞来寺/梅里
+- 13:17 - Go 独克宗古城
+- 14:00 - Check In Hotel@独克宗古城
+- 15:00 - Go 龟山公园 turn 大佛寺转经筒
+- 18:00 - Dinner@独克宗古城
+- 20:00 - Supper@古城四方街
+
+</details>
+
+---
+
+<details>
+  <summary>DAY 6: 17/11/24 - 香格里拉 · 独克宗 NIGHT 2</summary>
+
+- 08:00 - 纳帕海(Napa Lake) & 依拉草原
+- 09:00 - Chill at 黑豆咖啡屋
+- 14:00 - 松赞林寺(SongZanlin Monastery)
+- 18:00 - Public Bus back to 独克宗古城
+
+</details>
+
+---
+
+<details>
+  <summary>DAY 7: 18/11/24 - 香格里拉镇 NIGHT 1</summary>
+
+- 07:30 - Check Out
+- 08:00 - Hire car from 香格里拉站 to 香格里拉镇
+- 13:00 - Walk to 稻城亚丁景区游客中心 take 观光车
+- 13:30 - 稻城亚丁 短线
+- 15:00 - 亚丁村 -> 冲古寺 -> Trek to 珍珠海
+- 18:00 - Dinner@香格里拉镇
+
+</details>
+
+---
+
+<details>
+  <summary>DAY 8: 19/11/24 - 香格里拉镇 NIGHT 2</summary>
+
+- 07:00 - Walk to 稻城亚丁景区游客中心 take 观光车
+- 07:30 - 稻城亚丁 长线
+- 10:00 - 亚丁村 -> 冲古寺 -> 观光车 to 牛奶海/五色海
+- 18:00 - Dinner@香格里拉镇
+
+</details>
+
+---
+
+<details>
+  <summary>DAY 9: 20/11/24 - 香格里拉镇 NIGHT 2</summary>
+
+- 07:30 - Check Out
+
+</details>
+
+---
