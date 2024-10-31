@@ -1,9 +1,5 @@
 # Yunnan Itinerary
 
-Discover the wonders of Yunnan!
-
-## Itinerary Overview
-
 - **Duration:** 15 Days
 - **Start Date:** November 12, 2024
 - **End Date:** November 27, 2024
@@ -122,6 +118,76 @@ Discover the wonders of Yunnan!
   <summary>DAY 9: 20/11/24 - 香格里拉镇 NIGHT 2</summary>
 
 - 07:30 - Check Out
+
+</details>
+
+---
+
+<details>
+  <summary>DAY 10: 21/11/24 -  </summary>
+
+- 07:30 - Check Out
+
+</details>
+
+---
+
+<details>
+  <summary>DAY 11: 22/11/24 -  大理 NIGHT 1</summary>
+
+- 09:15 - Reached Dali Station
+- 10:00 - Explore Erhai Lake
+- 13:00 - Lunch @
+- 14:00 - Check-in HOTEL @
+- 14:30 - Explore 大理古城 Dali Old Town
+- 15:00 - Explore 喜洲古镇 Xizhou Village
+- 17:00 - Sound on the Clouds Hotel Santorini
+- 18:00 - Watch Sunset @
+
+</details>
+
+---
+
+<details>
+  <summary>DAY 12: 23/11/24 - 大理 NIGHT 2</summary>
+
+- 07:00 - Book car to 无量山樱花谷
+
+</details>
+
+---
+
+<details>
+  <summary>DAY 13: 24/11/24 - 香格里拉镇 NIGHT 2</summary>
+
+- 07:00 - Book car to 腾冲银杏村景区
+
+</details>
+
+---
+
+<details>
+  <summary>DAY 14: 25/11/24 - 昆明 NIGHT 1</summary>
+
+- 07:30 - Check Out
+
+</details>
+
+---
+
+<details>
+  <summary>DAY 15: 26/11/24 - 昆明 NIGHT 2</summary>
+
+- 07:30 - Check Out
+
+</details>
+
+---
+
+<details>
+  <summary>DAY 16: 27/11/24 - 昆明 > SG</summary>
+
+- 03:00 - Fly back
 
 </details>
 
