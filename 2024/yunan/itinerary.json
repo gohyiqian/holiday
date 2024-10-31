@@ -1,6 +1,5 @@
 {
-  "title": "Yunnan Itinerary",
-  "duration": "15 Days",
+  "title": "Yunnan 15 Days Itinerary",
   "startDate": "Nov 12, 2024",
   "endDate": "Nov 27, 2024",
   "days": [
@@ -112,7 +111,7 @@
         { "time": "07:00", "description": "Check Out" },
         {
           "time": "08:00",
-          "description": "Car 6 hour from 香格里拉Hotel to 亚丁旅游客运站"
+          "description": "Car 6 hr from 香格里拉 Hotel to 亚丁旅游客运站"
         },
         {
           "time": "13:00",
@@ -154,13 +153,17 @@
       "activities": [
         { "time": "08:00", "description": "Check Out Hotel@香格里拉镇" },
         {
-          "time": "08:00",
-          "description": "Car/Bus 6 hour from 亚丁旅游客运站 to 香格里拉汽车客运站"
+          "time": "09:00",
+          "description": "Car/Bus 6 hr from 亚丁旅游客运站 to 香格里拉汽车客运站"
         },
         {
-          "time": "17:00",
+          "time": "15:00",
+          "description": "Didi to 香格里拉站"
+        },
+        {
+          "time": "17:25",
           "description": "HSR-D8678 香格里拉站 to 丽江站",
-          "cost": 61.6,
+          "cost": 43.2,
           "bookedBy": "YQ"
         }
       ]
