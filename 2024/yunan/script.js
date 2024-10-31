@@ -44,23 +44,31 @@ function renderItinerary(data) {
           <th>Cost</th>
         </tr>
         ${day.activities
-          .map(
-            (activity) => `
-          <tr>
-            <td>${activity.time}</td>
-            <td>
-              ${activity.description} 
-              ${
-                activity.url
-                  ? `<a href="${activity.url}" target="_blank">${activity.location}</a>`
-                  : activity.location || ""
-              }
-            </td>
-            <td>${activity.bookedBy || "N/A"}</td>
-            <td>${activity.cost ? `$${activity.cost}` : "N/A"}</td>
-          </tr>
-        `
-          )
+          .map((activity) => {
+            // Determine font color based on `bookedBy` value
+            const bookedByStyle =
+              activity.bookedBy === "YQ"
+                ? "color: blue;"
+                : activity.bookedBy === "ZY"
+                ? "color: pink;"
+                : "";
+
+            return `
+            <tr>
+              <td>${activity.time}</td>
+              <td>
+                ${activity.description} 
+                ${
+                  activity.url
+                    ? `<a href="${activity.url}" target="_blank">${activity.location}</a>`
+                    : activity.location || ""
+                }
+              </td>
+              <td style="${bookedByStyle}">${activity.bookedBy || "-"}</td>
+              <td>${activity.cost ? `$${activity.cost}` : "-"}</td>
+            </tr>
+          `;
+          })
           .join("")}
         <tr>
           <td colspan="3" style="font-weight: bold; text-align: right;">Total Cost</td>
