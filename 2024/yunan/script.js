@@ -25,9 +25,6 @@ function renderItineraryInfo(data) {
       } else if (activity.bookedBy === "ZY") {
         totalCostByZY += cost;
       }
-      totalTripCost = totalTripCost.toFixed(2);
-      totalCostByZY = totalCostByZY.toFixed(2);
-      totalCostByYQ = totalCostByYQ.toFixed(2);
     });
   });
 
@@ -39,9 +36,9 @@ function renderItineraryInfo(data) {
     </div>
     <p><strong>Duration:</strong> ${data.duration}</p>
     <p><strong>Dates:</strong> ${data.startDate} to ${data.endDate}</p>
-    <p><strong>Total Trip Cost:</strong> $${totalTripCost}</p>
-    <p><strong>Total Cost by YQ:</strong> $${totalCostByYQ}</p>
-    <p><strong>Total Cost by ZY:</strong> $${totalCostByZY}</p>
+    <p><strong>Total Trip Cost:</strong> $${totalTripCost.toFixed(2)}</p>
+    <p><strong>Total Cost by YQ:</strong> $${totalCostByYQ.toFixed(2)}</p>
+    <p><strong>Total Cost by ZY:</strong> $${totalCostByZY.toFixed(2)}</p>
   `;
 
   // Add event listener to the button to toggle all sections
