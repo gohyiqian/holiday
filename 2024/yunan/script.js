@@ -98,7 +98,7 @@ function renderItinerary(data) {
               activity.bookedBy === "YQ"
                 ? "color: blue;"
                 : activity.bookedBy === "ZY"
-                ? "color: green;"
+                ? "color: #4caf50;"
                 : "";
 
             return `
