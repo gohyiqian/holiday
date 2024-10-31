@@ -100,8 +100,19 @@
       ]
     },
     {
-      "dayTitle": "DAY 8: 19/11/24 - 香格里拉镇 NIGHT 2",
-      "activities": [{ "time": "10:00", "description": "Chill day at 丽江" }]
+      "dayTitle": "DAY 8: 19/11/24 - 香格里拉镇 · 稻城亚丁 NIGHT 2",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Walk to 稻城亚丁景区游客中心 take 观光车"
+        },
+        { "time": "08:30", "description": "稻城亚丁 长线" },
+        {
+          "time": "14:00",
+          "description": "Trek 亚丁村 -> 冲古寺 -> 观光车 to 牛奶海/五色海"
+        },
+        { "time": "18:00", "description": "Dinner@香格里拉镇" }
+      ]
     },
     {
       "dayTitle": "DAY 9: 20/11/24 -香格里拉镇 > 丽江",
