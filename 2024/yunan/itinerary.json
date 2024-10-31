@@ -37,7 +37,7 @@
       ]
     },
     {
-      "dayTitle": "DAY 4: 15/11/24 - 飞来寺·梅里 NIGHT 1",
+      "dayTitle": "DAY 4: 15/11/24 - 飞来寺 · 梅里 NIGHT 1",
       "activities": [
         { "time": "07:00", "description": "Check Out 丽江古城" },
         { "time": "08:32", "description": "HSR-C441 丽江站 to 香格里拉站" },
@@ -54,16 +54,16 @@
       ]
     },
     {
-      "dayTitle": "DAY 5: 16/11/24 - 香格里拉·独克宗 NIGHT 1",
+      "dayTitle": "DAY 5: 16/11/24 - 香格里拉 · 独克宗 NIGHT 1",
       "activities": [
-        { "time": "06:00", "description": "Watch 梅里雪山日早金山" },
+        { "time": "06:00", "description": "Watch 梅里雪山 日早金山" },
         { "time": "12:00", "description": "Check Out Hotel@飞来寺/梅里" },
         { "time": "13:00", "description": "Go 独克宗古城" },
         {
           "time": "14:00",
           "description": "Check In",
-          "location": "Hotel@独克宗古城",
-          "url": "https://example.com/lijiang-hotel"
+          "location": "Shangri-La Anxu Garden Holiday Home",
+          "url": "https://www.trip.com/hotels/Shangri-La-hotel-detail-110858404/Shangri-La-Anxu-Garden-Holiday-Home-%28Shangri-La-Dukezong-Ancient-City-Branch%29/?locale=en-XX&fromfavorites=1&tid=H0011_10650019167&curr=SGD"
         },
         { "time": "15:00", "description": "Go 龟山公园 turn 大佛寺转经筒" },
         { "time": "18:00", "description": "Dinner@独克宗古城" },
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "dayTitle": "DAY 6: 17/11/24 - 香格里拉·独克宗 NIGHT 2",
+      "dayTitle": "DAY 6: 17/11/24 - 香格里拉 · 独克宗 NIGHT 2",
       "activities": [
         { "time": "08:00", "description": "纳帕海(Napa Lake) & 依拉草原" },
         { "time": "09:00", "description": "Chill at 黑豆咖啡屋" },
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "dayTitle": "DAY 7: 18/11/24 - 香格里拉镇 NIGHT 1",
+      "dayTitle": "DAY 7: 18/11/24 - 香格里拉镇 · 稻城亚丁 NIGHT 1",
       "activities": [
         { "time": "07:30", "description": "Check Out" },
         {
