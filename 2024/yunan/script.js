@@ -25,6 +25,9 @@ function renderItineraryInfo(data) {
       } else if (activity.bookedBy === "ZY") {
         totalCostByZY += cost;
       }
+      totalTripCost = totalTripCost.toFixed(2);
+      totalCostByZY = totalCostByZY.toFixed(2);
+      totalCostByYQ = totalCostByYQ.toFixed(2);
     });
   });
 
