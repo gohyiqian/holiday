@@ -111,6 +111,14 @@ function renderItinerary(data) {
               </td>
               <td style="${bookedByStyle}">${activity.bookedBy || "-"}</td>
               <td>${activity.cost ? `$${activity.cost}` : "-"}</td>
+                            <td>
+                ${
+                  activity.image
+                    ? `<img src="${activity.image}" alt="Photo" class="activity-image">`
+                    : "N/A"
+                }
+              </td>
+
             </tr>
           `;
           })

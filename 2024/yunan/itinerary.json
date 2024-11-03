@@ -54,6 +54,16 @@
       "activities": [
         { "time": "07:00", "description": "Check Out Hotel@丽江古城" },
         {
+          "time": "08:00",
+          "description": "Walk to 遇见丽江广场 near 丽江古城北门"
+        },
+        {
+          "time": "08:32",
+          "description": "Bus 遇见丽江广场 to 独克宗古城-东大门地上停车场",
+          "cost": 33.89,
+          "bookedBy": "YQ"
+        },
+        {
           "time": "08:32",
           "description": "Train C441 丽江站 to 香格里拉站",
           "cost": 33.89,
@@ -71,6 +81,7 @@
           "description": "Check In ",
           "location": "Xuelong Meili Yiju Hotel 德钦雪龙·梅里逸居酒店",
           "url": "https://www.trip.com/hotels/detail/?hotelId=14621292",
+          "image": "./img/hotelmeili.png",
           "cost": 224.04,
           "bookedBy": "YQ"
         },
