@@ -85,7 +85,6 @@ function renderItinerary(data) {
         <tr>
           <th>Time</th>
           <th>Description</th>
-          <th>Photo</th>
           <th>Booked By</th>
           <th>Cost</th>
         </tr>
@@ -108,13 +107,6 @@ function renderItinerary(data) {
                   activity.url
                     ? `<a href="${activity.url}" target="_blank">${activity.location}</a>`
                     : activity.location || ""
-                }
-              </td>
-              <td>
-                ${
-                  activity.image
-                    ? `<img src="${activity.image}" alt="Photo" class="activity-image">`
-                    : "N/A"
                 }
               </td>
               <td style="${bookedByStyle}">${activity.bookedBy || "-"}</td>
