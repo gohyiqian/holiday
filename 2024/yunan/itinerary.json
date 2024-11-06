@@ -7,6 +7,12 @@
       "dayTitle": "DAY 1: 12/11 - SG > 昆明",
       "activities": [
         {
+          "time": "00:00",
+          "description": "Cash",
+          "cost": 600,
+          "bookedBy": "ZY"
+        },
+        {
           "time": "22:00",
           "description": "Depart Changi T1",
           "cost": 1045.42,
