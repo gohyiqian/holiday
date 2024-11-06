@@ -223,7 +223,7 @@
         },
         {
           "time": "21:00",
-          "description": "Sleep early"
+          "description": "Rest for the day"
         }
       ]
     },
@@ -258,11 +258,11 @@
       "activities": [
         {
           "time": "08:00",
-          "description": "Car 2 hr to 无量山樱花谷"
+          "description": "滴滴 2 hr to 无量山樱花谷"
         },
         {
           "time": "12:00",
-          "description": "Car 2hr back to 大理古城"
+          "description": "滴滴 2 hr back to 大理古城"
         },
         { "time": "15:00", "description": "Explore 大理古城 Dali Old Town" },
         {
