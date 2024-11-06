@@ -52,29 +52,22 @@
     {
       "dayTitle": "DAY 4: 15/11 - 飞来寺|梅里 NIGHT 1",
       "activities": [
+        { "time": "06:00", "description": "Wake up & Breakfast" },
         { "time": "07:00", "description": "Check Out Hotel@丽江古城" },
         {
-          "time": "08:00",
-          "description": "Walk to 遇见丽江广场 near 丽江古城北门"
-        },
-        {
-          "time": "08:32",
-          "description": "Bus 遇见丽江广场 to 独克宗古城-东大门地上停车场",
-          "cost": 33.89,
-          "bookedBy": "YQ"
+          "time": "07:30",
+          "description": "滴滴 to 丽江站"
         },
         {
           "time": "08:32",
           "description": "Train C441 丽江站 to 香格里拉站",
-          "cost": 33.89,
+          "cost": 22.18,
           "bookedBy": "YQ"
         },
         { "time": "09:45", "description": "Reached 香格里拉站" },
-        { "time": "10:00", "description": "Go 香格里拉汽车客运站 售票处" },
         {
-          "time": "10:30",
-          "description": "Car/Bus 4 hr to 德钦（飞来寺)",
-          "cost": 0
+          "time": "11:00",
+          "description": "Car Pick up 香格里拉站 to 德钦（飞来寺)"
         },
         {
           "time": "16:00",
@@ -92,17 +85,18 @@
       "dayTitle": "DAY 5: 16/11 - 香格里拉|独克宗 NIGHT 1",
       "activities": [
         { "time": "06:00", "description": "Watch 梅里雪山 日早金山" },
+        { "time": "08:00", "description": "Rest & Chill & Explore" },
         { "time": "12:00", "description": "Check Out Hotel@梅里" },
-        { "time": "13:00", "description": "Go 独克宗古城" },
+        { "time": "13:00", "description": "Car Pick Up to 独克宗古城" },
         {
-          "time": "14:00",
+          "time": "16:00",
           "description": "Check In",
           "location": "QiYu Oxygen Supply Homestay 栖屿·供氧民宿(香格里拉古城店)",
           "url": "https://www.trip.com/hotels/Shangri-La-hotel-detail-122454532/Shangri-La-QiYu-Oxygen-Supply-Homestay",
           "cost": 100.02,
           "bookedBy": "ZY"
         },
-        { "time": "15:00", "description": "Go 龟山公园 turn 大佛寺转经筒" },
+        { "time": "17:00", "description": "Go 龟山公园 turn 大佛寺转经筒" },
         { "time": "18:00", "description": "Dinner@独克宗古城" },
         { "time": "20:00", "description": "Supper@古城四方街" }
       ]
@@ -110,6 +104,7 @@
     {
       "dayTitle": "DAY 6: 17/11 - 香格里拉|独克宗 NIGHT 2",
       "activities": [
+        { "time": "07:00", "description": "Wake up & Breakfast" },
         { "time": "08:00", "description": "Tour 纳帕海(Napa Lake) & 依拉草原" },
         { "time": "09:00", "description": "Kopi at 黑豆咖啡屋" },
         { "time": "14:00", "description": "Go 松赞林寺(SongZanlin Monastery)" },
@@ -169,7 +164,7 @@
         },
         {
           "time": "15:00",
-          "description": "Didi to 香格里拉站"
+          "description": "滴滴 to 香格里拉站"
         },
         {
           "time": "17:25",
@@ -184,25 +179,29 @@
         {
           "time": "19:00",
           "description": "Check In",
-          "location": "X Hotel",
-          "url": "https://www.trip.com/hotels/Daocheng-hotel-detail-37884919/Ziyu-B&B",
-          "cost": 0,
-          "bookedBy": "ZY"
+          "location": "Here (the Old Town of Lijiang Store) 此间（丽江古城木府店)",
+          "url": "https://www.trip.com/hotels/detail/?hotelId=106139660&checkIn=2024-11-20&checkOut=2024-11-22&locale=en-XX",
+          "cost": 148.88,
+          "bookedBy": "YQ"
         },
         {
           "time": "20:00",
           "description": "Dinner@丽江古城"
         },
-        {
-          "time": "21:00",
-          "description": "Sleep early"
-        }
+        { "time": "21:00", "description": "Rest for the day" }
       ]
     },
     {
       "dayTitle": "DAY 10: 21/11 - 丽江 NIGHT 2",
       "activities": [
-        { "time": "06:00", "description": "Car to 玉龙雪山" },
+        {
+          "time": "06:00",
+          "description": "1 Day Trip to 玉龙雪山",
+          "location": "玉龙雪山一日游",
+          "url": "https://t.ctrip.cn/?4LvJ7H2BE9632",
+          "cost": 173.14,
+          "bookedBy": "ZY"
+        },
         { "time": "10:00", "description": "Cable Car up to 玉龙雪山" },
         {
           "time": "18:00",
@@ -219,24 +218,25 @@
       "activities": [
         { "time": "08:00", "description": "Check Out Hotel@丽江" },
         {
-          "time": "10:00",
-          "description": "Car 2 hr to 大理 Hotel (No HSR ticket)"
+          "time": "12:01",
+          "description": "HSR-C378 丽江站 to 大理站",
+          "cost": 50.42,
+          "bookedBy": "YQ"
         },
         {
-          "time": "12:00",
+          "time": "14:09",
+          "description": "Reached 大理站"
+        },
+        {
+          "time": "14:30",
           "description": "Check In",
-          "location": "X Hotel",
-          "url": "",
-          "cost": 0,
+          "location": "Mountain Resort Hotel YEZE·野在山川·度假民宿",
+          "url": "https://www.trip.com/hotels/detail/?cityId=36&hotelId=121861943",
+          "cost": 176.96,
           "bookedBy": "ZY"
         },
-        { "time": "10:00", "description": "Explore 洱海 Lake" },
-        { "time": "15:00", "description": "Explore 大理古城 Dali Old Town" },
-        { "time": "16:00", "description": "Explore 喜洲古镇 Xizhou Village" },
-        {
-          "time": "17:00",
-          "description": "Visit Sound on the Clouds Hotel Santorini"
-        }
+        { "time": "16:00", "description": "Explore 洱海 Lake" },
+        { "time": "19:00", "description": "Explore 喜洲古镇 Xizhou Village" }
       ]
     },
     {
@@ -249,6 +249,11 @@
         {
           "time": "12:00",
           "description": "Car 2hr back to 大理古城"
+        },
+        { "time": "15:00", "description": "Explore 大理古城 Dali Old Town" },
+        {
+          "time": "18:00",
+          "description": "Sunset at Sound on the Clouds Hotel Santorini"
         }
       ]
     },
