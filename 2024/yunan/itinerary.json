@@ -87,7 +87,12 @@
         { "time": "06:00", "description": "Watch 梅里雪山 日早金山" },
         { "time": "08:00", "description": "Rest & Chill & Explore" },
         { "time": "12:00", "description": "Check Out Hotel@梅里" },
-        { "time": "13:00", "description": "Car Pick Up to 独克宗古城" },
+        {
+          "time": "13:00",
+          "description": "Car Pick Up to 独克宗古城",
+          "cost": 0,
+          "bookedBy": "To Book"
+        },
         {
           "time": "16:00",
           "description": "Check In",
@@ -117,7 +122,9 @@
         { "time": "07:00", "description": "Check Out Hotel@独克宗" },
         {
           "time": "08:00",
-          "description": "Car 6 hr from 香格里拉 Hotel to 亚丁旅游客运站"
+          "description": "Bus/Car from 独克宗 to 亚丁 Hotel",
+          "cost": 0,
+          "bookedBy": "To Book"
         },
         {
           "time": "13:00",
@@ -131,9 +138,9 @@
           "time": "14:00",
           "description": "Walk to 稻城亚丁景区游客中心 take 观光车"
         },
-        { "time": "13:30", "description": "稻城亚丁 短线" },
+        { "time": "14:30", "description": "稻城亚丁 短线" },
         {
-          "time": "14:00",
+          "time": "16:00",
           "description": "Trek 亚丁村 -> 冲古寺 -> 珍珠海"
         },
         { "time": "18:00", "description": "Dinner@香格里拉镇" }
@@ -160,7 +167,9 @@
         { "time": "08:00", "description": "Check Out Hotel@香格里拉镇" },
         {
           "time": "09:00",
-          "description": "Car/Bus 6 hr from 亚丁旅游客运站 to 香格里拉汽车客运站"
+          "description": "Car/Bus 6 hr from 亚丁旅游客运站 to 香格里拉汽车客运站",
+          "cost": 0,
+          "bookedBy": "To Book"
         },
         {
           "time": "15:00",
@@ -202,7 +211,6 @@
           "cost": 173.14,
           "bookedBy": "ZY"
         },
-        { "time": "10:00", "description": "Cable Car up to 玉龙雪山" },
         {
           "time": "18:00",
           "description": "Dinner@丽江古城"
@@ -272,8 +280,8 @@
         {
           "time": "15:00",
           "description": "Check In",
-          "location": "X Hotel",
-          "url": "https://www.trip.com/hotels/detail/?cityId=34&hotelId=51601913&barcurr=SGD&locale=en-XX",
+          "location": "Ji Hotel 全季酒店（昆明翠湖人民中路店)",
+          "url": "https://www.trip.com/hotels/detail/?cityId=34&hotelId=51601913",
           "cost": 0,
           "bookedBy": "ZY"
         }
