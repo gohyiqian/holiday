@@ -89,14 +89,15 @@
         { "time": "09:45", "description": "Reached 香格里拉站" },
         {
           "time": "11:00",
-          "description": "Car Pick up 香格里拉站 to 德钦（飞来寺)"
+          "description": "Car Pick up 香格里拉站 to 德钦（飞来寺)",
+          "cost": 0,
+          "bookedBy": "To Book"
         },
         {
           "time": "16:00",
           "description": "Check In ",
           "location": "Xuelong Meili Yiju Hotel 德钦雪龙·梅里逸居酒店",
           "url": "https://www.trip.com/hotels/detail/?hotelId=14621292",
-          "image": "./img/hotelmeili.png",
           "cost": 224.04,
           "bookedBy": "YQ"
         },
