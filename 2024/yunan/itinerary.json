@@ -23,10 +23,10 @@
     {
       "dayTitle": "DAY 2: 13/11 - 昆明 > 丽江 NIGHT 1",
       "activities": [
-        { "time": "02:00", "description": "Arrive 昆明长水 国际机场" },
+        { "time": "02:00", "description": "Arrive 昆明长水机场" },
         {
           "time": "02:30",
-          "description": "滴滴 pick up from 昆明长水",
+          "description": "滴滴 pick up from 昆明长水机场",
           "cost": 0,
           "bookedBy": "YQ"
         },
@@ -100,8 +100,10 @@
         {
           "time": "11:00",
           "description": "Car Pick up 香格里拉站 to 德钦（飞来寺)",
-          "cost": 0,
-          "bookedBy": "To Book"
+          "cost": 56.47,
+          "mode": "Trust Visa Card",
+          "fxrate": 5.3807,
+          "bookedBy": "YQ"
         },
         {
           "time": "16:00",
@@ -266,6 +268,8 @@
           "location": "玉龙雪山一日游",
           "url": "https://t.ctrip.cn/?4LvJ7H2BE9632",
           "cost": 173.14,
+          "mode": "Revolut Master Card",
+          "fxrate": 5.3832,
           "bookedBy": "ZY"
         },
         {

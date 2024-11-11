@@ -112,6 +112,8 @@ function renderItinerary(data) {
                 }
               </td>
               <td style="${bookedByStyle}">${activity.bookedBy || "-"}</td>
+              <td>${activity.mode ? `$${activity.mode}` : "-"}</td>
+              <td>${activity.fxrate ? `$${activity.fxrate}` : "-"}</td>
               <td>${activity.cost ? `$${activity.cost}` : "-"}</td>
             </tr>
           `;
