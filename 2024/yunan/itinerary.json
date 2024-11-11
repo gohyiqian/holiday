@@ -59,7 +59,11 @@
           "bookedBy": "ZY"
         },
         { "time": "15:00", "description": "Shop at 忠义 Market" },
-        { "time": "18:00", "description": "Dinner@丽江古城" }
+        { "time": "18:00", "description": "Dinner@丽江古城" },
+        {
+          "time": "21:00",
+          "description": "Rest for the day"
+        }
       ]
     },
     {
@@ -68,7 +72,11 @@
         { "time": "10:00", "description": "Chill day at 丽江" },
         { "time": "15:00", "description": "Tour 白沙镇 or 虎跳峡景区" },
         { "time": "16:00", "description": "Back to 丽江古城" },
-        { "time": "18:00", "description": "Dinner@忠义夜市" }
+        { "time": "18:00", "description": "Dinner@忠义夜市" },
+        {
+          "time": "21:00",
+          "description": "Rest for the day"
+        }
       ]
     },
     {
@@ -78,7 +86,9 @@
         { "time": "07:00", "description": "Check Out Hotel@丽江古城" },
         {
           "time": "07:30",
-          "description": "滴滴 to 丽江站"
+          "description": "滴滴 to 丽江站",
+          "cost": 0,
+          "bookedBy": "To Book"
         },
         {
           "time": "08:32",
@@ -101,7 +111,7 @@
           "cost": 224.04,
           "bookedBy": "YQ"
         },
-        { "time": "18:00", "description": "Rest for the day" }
+        { "time": "19:00", "description": "Rest for the day" }
       ]
     },
     {
@@ -126,7 +136,11 @@
         },
         { "time": "17:00", "description": "Go 龟山公园 turn 大佛寺转经筒" },
         { "time": "18:00", "description": "Dinner@独克宗古城" },
-        { "time": "20:00", "description": "Supper@古城四方街" }
+        { "time": "20:00", "description": "Supper@古城四方街" },
+        {
+          "time": "21:00",
+          "description": "Rest for the day"
+        }
       ]
     },
     {
@@ -136,7 +150,11 @@
         { "time": "08:00", "description": "Tour 纳帕海(Napa Lake) & 依拉草原" },
         { "time": "09:00", "description": "Kopi at 黑豆咖啡屋" },
         { "time": "14:00", "description": "Go 松赞林寺(SongZanlin Monastery)" },
-        { "time": "18:00", "description": "Public Bus back to 独克宗古城" }
+        { "time": "18:00", "description": "Public Bus back to 独克宗古城" },
+        {
+          "time": "21:00",
+          "description": "Rest for the day"
+        }
       ]
     },
     {
@@ -166,7 +184,11 @@
           "time": "16:00",
           "description": "Trek 亚丁村 -> 冲古寺 -> 珍珠海"
         },
-        { "time": "18:00", "description": "Dinner@香格里拉镇" }
+        { "time": "18:00", "description": "Dinner@香格里拉镇" },
+        {
+          "time": "21:00",
+          "description": "Rest for the day"
+        }
       ]
     },
     {
@@ -181,7 +203,11 @@
           "time": "14:00",
           "description": "Trek 亚丁村 -> 冲古寺 -> 观光车 to 牛奶海/五色海"
         },
-        { "time": "18:00", "description": "Dinner@香格里拉镇" }
+        { "time": "18:00", "description": "Dinner@香格里拉镇" },
+        {
+          "time": "21:00",
+          "description": "Rest for the day"
+        }
       ]
     },
     {
@@ -196,7 +222,9 @@
         },
         {
           "time": "15:00",
-          "description": "滴滴 to 香格里拉站"
+          "description": "滴滴 to 香格里拉站",
+          "cost": 0,
+          "bookedBy": "To Book"
         },
         {
           "time": "17:25",
@@ -210,6 +238,12 @@
         },
         {
           "time": "19:00",
+          "description": "滴滴 to 丽江Hotel",
+          "cost": 0,
+          "bookedBy": "To Book"
+        },
+        {
+          "time": "19:30",
           "description": "Check In",
           "location": "Here (the Old Town of Lijiang Store) 此间（丽江古城木府店)",
           "url": "https://www.trip.com/hotels/detail/?hotelId=106139660&checkIn=2024-11-20&checkOut=2024-11-22&locale=en-XX",
@@ -267,7 +301,11 @@
           "bookedBy": "ZY"
         },
         { "time": "16:00", "description": "Explore 洱海 Lake" },
-        { "time": "19:00", "description": "Explore 喜洲古镇 Xizhou Village" }
+        { "time": "19:00", "description": "Explore 喜洲古镇 Xizhou Village" },
+        {
+          "time": "21:00",
+          "description": "Rest for the day"
+        }
       ]
     },
     {
@@ -285,6 +323,10 @@
         {
           "time": "18:00",
           "description": "Sunset at Sound on the Clouds Hotel Santorini"
+        },
+        {
+          "time": "21:00",
+          "description": "Rest for the day"
         }
       ]
     },
