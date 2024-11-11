@@ -24,8 +24,24 @@
       "dayTitle": "DAY 2: 13/11 - 昆明 > 丽江 NIGHT 1",
       "activities": [
         { "time": "02:00", "description": "Arrive 昆明长水 国际机场" },
-        { "time": "04:00", "description": "Breakfast at 机场" },
-        { "time": "04:30", "description": "滴滴 to 昆明火车站 (Opens 5am)" },
+        {
+          "time": "02:30",
+          "description": "滴滴 pick up from 昆明长水",
+          "cost": 36.84,
+          "bookedBy": "YQ"
+        },
+        {
+          "time": "03:00",
+          "description": "Check In",
+          "location": "Gefei Hotel (Kunming Railway Station North Square Branch) 格菲酒店（昆明火车站店)",
+          "url": "https://www.trip.com/hotels/ctorderdetail?orderid=36347423291",
+          "cost": 36.84,
+          "bookedBy": "YQ"
+        },
+        {
+          "time": "06:30",
+          "description": "Walk 10min to 昆明火车站 (Opens 5am)"
+        },
         {
           "time": "07:13",
           "description": "Train D8792 昆明站 to 丽江站",
@@ -37,7 +53,7 @@
         {
           "time": "14:00",
           "description": "Check In",
-          "location": "Shanyu Nian · Moon Falling City Villa 山屿念·月下倾城villa",
+          "location": "Shanyu Nian Moon Falling City Villa 山屿念·月下倾城villa",
           "url": "https://www.trip.com/hotels/detail/?hotelId=112406304",
           "cost": 176.86,
           "bookedBy": "ZY"
