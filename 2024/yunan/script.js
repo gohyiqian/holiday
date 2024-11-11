@@ -86,6 +86,8 @@ function renderItinerary(data) {
           <th>Time</th>
           <th>Description</th>
           <th>Booked By</th>
+          <th>Mode</th>
+          <th>Fx Rate</th>
           <th>Cost</th>
         </tr>
         ${day.activities
