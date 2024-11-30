@@ -87,8 +87,6 @@ function renderItinerary(data) {
           <th>Description</th>
           <th>Booked By</th>
           <th>Cost</th>
-          <th>Mode</th>
-          <th>Fx Rate</th>
         </tr>
         ${day.activities
           .map((activity) => {
@@ -115,8 +113,6 @@ function renderItinerary(data) {
               </td>
               <td style="${bookedByStyle}">${activity.bookedBy || "-"}</td>
               <td>${activity.cost ? `$${activity.cost}` : "-"}</td>
-              <td>${activity.mode ? `$${activity.mode}` : "-"}</td>
-              <td>${activity.fxrate ? `$${activity.fxrate}` : "-"}</td>
             </tr>
           `;
           })
