@@ -38,19 +38,19 @@
         },
         {
           "date": "15 Nov",
-          "description": "Train Kunming to LiJiang",
+          "description": "Train LiJiang to Shangri-La",
           "cost": 22.18,
           "bookedBy": "YQ"
         },
         {
           "date": "18 Nov",
-          "description": "Train Kunming to LiJiang",
+          "description": "Train Shangri-La to LiJiang",
           "cost": 41.82,
           "bookedBy": "YQ"
         },
         {
           "date": "22 Nov",
-          "description": "Train Kunming to LiJiang",
+          "description": "Train Dali to Kunming",
           "cost": 92.59,
           "bookedBy": "YQ"
         },
