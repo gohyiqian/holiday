@@ -368,14 +368,14 @@
       ]
     },
     {
-      "dayTitle": "DAY 13: 24/11 - 昆明 NIGHT 1",
+      "dayTitle": "DAY 13: 22/11 - 昆明 NIGHT 1",
       "activities": [
         { "time": "08:00", "description": "Breakfast@" },
         { "time": "11:00", "description": "Check Out Hotel@大理" },
         {
-          "time": "12:20",
-          "description": "HSR-D8678 大理站 to 昆明站",
-          "cost": 61.6,
+          "time": "13:30",
+          "description": "HSR-D8674 大理站 to 昆明站",
+          "cost": 92.59,
           "bookedBy": "YQ"
         },
         { "time": "14:24", "description": "Reached 昆明站" },

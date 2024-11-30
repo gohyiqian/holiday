@@ -59,6 +59,12 @@
           "description": "China Eastern Flight Kunming to SG",
           "cost": 259.4,
           "bookedBy": "YQ"
+        },
+        {
+          "date": "24 Nov",
+          "description": "Trust Card for Alipay and Weixin",
+          "cost": 0,
+          "bookedBy": "YQ"
         }
       ]
     },
@@ -72,9 +78,45 @@
           "bookedBy": "ZY"
         },
         {
+          "date": "13 - 15 Nov",
+          "description": "Hotel at LiJiang",
+          "cost": 176.86,
+          "bookedBy": "ZY"
+        },
+        {
+          "date": "16 - 18 Nov",
+          "description": "Hotel at Shangri-La",
+          "cost": 100.02,
+          "bookedBy": "ZY"
+        },
+        {
+          "date": "18 - 20 Nov",
+          "description": "Hotel at DaoCheng (Forfeited)",
+          "cost": 142.04,
+          "bookedBy": "ZY"
+        },
+        {
+          "date": "20 - 22 Nov",
+          "description": "Hotel at Dali",
+          "cost": 176.96,
+          "bookedBy": "ZY"
+        },
+        {
+          "date": "22 - 24 Nov",
+          "description": "Hotel at Kunming",
+          "cost": 0,
+          "bookedBy": "ZY"
+        },
+        {
           "time": "19 Nov",
           "description": "YuLong Mountain Day Trip",
           "cost": 173.14,
+          "bookedBy": "ZY"
+        },
+        {
+          "time": "13 - 24 Nov",
+          "description": "Revolut Card for Alipay",
+          "cost": 0,
           "bookedBy": "ZY"
         }
       ]
