@@ -8,7 +8,7 @@
       "activities": [
         {
           "date": "13 Nov",
-          "description": "Scoot Air Tickets",
+          "description": "Scoot Air 2-Way Tickets",
           "cost": 1045.42,
           "bookedBy": "YQ"
         },
@@ -52,6 +52,12 @@
           "date": "22 Nov",
           "description": "Train Kunming to LiJiang",
           "cost": 92.59,
+          "bookedBy": "YQ"
+        },
+        {
+          "date": "24 Nov",
+          "description": "China Eastern Flight Kunming to SG",
+          "cost": 259.4,
           "bookedBy": "YQ"
         }
       ]
