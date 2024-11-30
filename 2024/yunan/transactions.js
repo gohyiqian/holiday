@@ -1,3 +1,5 @@
+import { db, collection, addDoc } from "./firebase.js";
+
 document
   .getElementById("transactionForm")
   .addEventListener("submit", async (event) => {
@@ -9,42 +11,30 @@ document
     const location = document.getElementById("location").value;
     const bookedBy = document.getElementById("bookedBy").value;
     const cost = parseFloat(document.getElementById("cost").value).toFixed(2);
-    const imageFile = document.getElementById("image").files[0];
 
-    // Convert image to base64 (optional, or upload separately)
-    let imageBase64 = "";
-    if (imageFile) {
-      const reader = new FileReader();
-      reader.onloadend = () => {
-        imageBase64 = reader.result;
+    // Create transaction object without an image
+    const transaction = {
+      time,
+      description,
+      location,
+      bookedBy,
+      cost,
+    };
 
-        // Create transaction object
-        const transaction = {
-          time,
-          description,
-          location,
-          bookedBy,
-          cost,
-          image: imageBase64, // Or use a URL if uploading separately
-        };
+    // Simulate saving to localStorage or sending to a server
+    //   saveTransaction(transaction);
+    try {
+      // Add transaction to Firestore
+      const docRef = await addDoc(collection(db, "transactions"), transaction);
+      console.log("Transaction added with ID:", docRef.id);
 
-        // Simulate saving to localStorage or sending to a server
-        saveTransaction(transaction);
-      };
-      reader.readAsDataURL(imageFile);
-    } else {
-      // Create transaction object without an image
-      const transaction = {
-        time,
-        description,
-        location,
-        bookedBy,
-        cost,
-        image: null,
-      };
+      // Show success message
+      document.getElementById("successMessage").style.display = "block";
 
-      // Simulate saving to localStorage or sending to a server
-      saveTransaction(transaction);
+      // Clear form
+      document.getElementById("transactionForm").reset();
+    } catch (e) {
+      console.error("Error adding document:", e);
     }
   });
 
