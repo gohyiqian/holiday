@@ -1,0 +1,29 @@
+{
+  "title": "Yunnan 15 Days Itinerary",
+  "startDate": "Nov 12, 2024",
+  "endDate": "Nov 27, 2024",
+  "days": [
+    {
+      "dayTitle": "YQ Expenses",
+      "activities": [
+        {
+          "time": "22:00",
+          "description": "Scoot Air Tickets",
+          "cost": 1045.42,
+          "bookedBy": "YQ"
+        }
+      ]
+    },
+    {
+      "dayTitle": "ZY Expenses",
+      "activities": [
+        {
+          "time": "00:00",
+          "description": "Cash",
+          "cost": 600,
+          "bookedBy": "ZY"
+        }
+      ]
+    }
+  ]
+}
