@@ -25,9 +25,9 @@
       "activities": [
         { "time": "02:00", "description": "Arrive 昆明长水机场" },
         {
-          "time": "02:30",
-          "description": "滴滴 pick up from 昆明长水机场",
-          "cost": 0,
+          "time": "02:24",
+          "description": "滴滴 Didi from 昆明长水机场",
+          "cost": 21.12,
           "bookedBy": "YQ"
         },
         {
@@ -49,6 +49,7 @@
           "bookedBy": "YQ"
         },
         { "time": "10:33", "description": "Reached 丽江站" },
+        { "time": "11:00", "description": "Free Pick up to 丽江古城" },
         { "time": "12:00", "description": "Lunch@丽江古城" },
         {
           "time": "14:00",
@@ -69,10 +70,20 @@
     {
       "dayTitle": "DAY 3: 14/11 - 丽江 NIGHT 2",
       "activities": [
-        { "time": "10:00", "description": "Chill day at 丽江" },
-        { "time": "15:00", "description": "Tour 白沙镇 or 虎跳峡景区" },
+        {
+          "time": "10:10",
+          "description": "滴滴 Didi to 花舍",
+          "cost": 3.49,
+          "bookedBy": "YQ"
+        },
+        { "time": "15:00", "description": "Tour 束河古镇" },
         { "time": "16:00", "description": "Back to 丽江古城" },
-        { "time": "18:00", "description": "Dinner@忠义夜市" },
+        {
+          "time": "19:38",
+          "description": "滴滴 Didi back to Hotel",
+          "cost": 4.01,
+          "bookedBy": "YQ"
+        },
         {
           "time": "21:00",
           "description": "Rest for the day"
@@ -85,10 +96,10 @@
         { "time": "06:00", "description": "Wake up & Breakfast" },
         { "time": "07:00", "description": "Check Out Hotel@丽江古城" },
         {
-          "time": "07:30",
+          "time": "07:15",
           "description": "滴滴 to 丽江站",
-          "cost": 0,
-          "bookedBy": "To Book"
+          "cost": 6.31,
+          "bookedBy": "YQ"
         },
         {
           "time": "08:32",
@@ -98,11 +109,15 @@
         },
         { "time": "09:45", "description": "Reached 香格里拉站" },
         {
+          "time": "10:06",
+          "description": "滴滴 to 包车 Pick up point",
+          "cost": 5.59,
+          "bookedBy": "YQ"
+        },
+        {
           "time": "11:00",
-          "description": "Car Pick up 香格里拉站 to 德钦（飞来寺)",
+          "description": "包车 from 香格里拉站 to 德钦（飞来寺)",
           "cost": 56.47,
-          "mode": "Trust Visa Card",
-          "fxrate": 5.3807,
           "bookedBy": "YQ"
         },
         {
@@ -121,12 +136,18 @@
       "activities": [
         { "time": "06:00", "description": "Watch 梅里雪山 日早金山" },
         { "time": "08:00", "description": "Rest & Chill & Explore" },
-        { "time": "12:00", "description": "Check Out Hotel@梅里" },
+        { "time": "10:00", "description": "Check Out Hotel@梅里" },
         {
-          "time": "13:00",
-          "description": "Car Pick Up to 独克宗古城",
-          "cost": 0,
-          "bookedBy": "To Book"
+          "time": "10:30",
+          "description": "包车 Back to 独克宗古城",
+          "cost": 48.35,
+          "bookedBy": "YQ"
+        },
+        {
+          "time": "13:57",
+          "description": "滴滴 to Hotel@独克宗古城",
+          "cost": 1.86,
+          "bookedBy": "YQ"
         },
         {
           "time": "16:00",
@@ -138,7 +159,7 @@
         },
         { "time": "17:00", "description": "Go 龟山公园 turn 大佛寺转经筒" },
         { "time": "18:00", "description": "Dinner@独克宗古城" },
-        { "time": "20:00", "description": "Supper@古城四方街" },
+        { "time": "20:00", "description": "Dance@古城四方街" },
         {
           "time": "21:00",
           "description": "Rest for the day"
@@ -149,10 +170,30 @@
       "dayTitle": "DAY 6: 17/11 - 香格里拉|独克宗 NIGHT 2",
       "activities": [
         { "time": "07:00", "description": "Wake up & Breakfast" },
-        { "time": "08:00", "description": "Tour 纳帕海(Napa Lake) & 依拉草原" },
-        { "time": "09:00", "description": "Kopi at 黑豆咖啡屋" },
-        { "time": "14:00", "description": "Go 松赞林寺(SongZanlin Monastery)" },
-        { "time": "18:00", "description": "Public Bus back to 独克宗古城" },
+        {
+          "time": "11:06",
+          "description": "滴滴 to 松赞林寺",
+          "cost": 3.7,
+          "bookedBy": "YQ"
+        },
+        {
+          "time": "15:34",
+          "description": "滴滴 to 黑豆咖啡屋",
+          "cost": 3.53,
+          "bookedBy": "YQ"
+        },
+        {
+          "time": "16:12",
+          "description": "黑豆咖啡屋 to 独克宗古城",
+          "cost": 5.43,
+          "bookedBy": "YQ"
+        },
+        {
+          "time": "21:03",
+          "description": "滴滴 back to Hotel",
+          "cost": 1.67,
+          "bookedBy": "YQ"
+        },
         {
           "time": "21:00",
           "description": "Rest for the day"
@@ -160,7 +201,7 @@
       ]
     },
     {
-      "dayTitle": "DAY 7: 18/11 - 稻城亚丁 NIGHT 1",
+      "dayTitle": "DAY 7: 18/11 - 稻城亚丁 NIGHT 1 [CANCELLED]",
       "activities": [
         { "time": "07:00", "description": "Check Out Hotel@独克宗" },
         {
@@ -194,7 +235,7 @@
       ]
     },
     {
-      "dayTitle": "DAY 8: 19/11 - 稻城亚丁 NIGHT 2",
+      "dayTitle": "DAY 8: 19/11 - 稻城亚丁 NIGHT 2 [CANCELLED]",
       "activities": [
         {
           "time": "08:00",
@@ -213,43 +254,37 @@
       ]
     },
     {
-      "dayTitle": "DAY 9: 20/11 - 丽江 NIGHT 1",
+      "dayTitle": "DAY 9: 18/11 - 丽江 NIGHT 1",
       "activities": [
         { "time": "08:00", "description": "Check Out Hotel@香格里拉镇" },
         {
-          "time": "09:00",
-          "description": "Car/Bus 6 hr from 亚丁旅游客运站 to 香格里拉汽车客运站",
-          "cost": 0,
-          "bookedBy": "To Book"
-        },
-        {
-          "time": "15:00",
-          "description": "滴滴 to 香格里拉站",
-          "cost": 0,
-          "bookedBy": "To Book"
-        },
-        {
-          "time": "17:25",
-          "description": "HSR-C640 香格里拉站 to 丽江站",
-          "cost": 43.2,
+          "time": "10:15",
+          "description": "滴滴包车 to tour 纳帕海(Napa Lake)",
+          "cost": 28.25,
           "bookedBy": "YQ"
         },
         {
-          "time": "18:35",
+          "time": "13:39",
+          "description": "HSR-C640 香格里拉站 to 丽江站",
+          "cost": 41.82,
+          "bookedBy": "YQ"
+        },
+        {
+          "time": "15:12",
           "description": "Reached 丽江站"
         },
         {
-          "time": "19:00",
+          "time": "15:17",
           "description": "滴滴 to 丽江Hotel",
-          "cost": 0,
-          "bookedBy": "To Book"
+          "cost": 4.1,
+          "bookedBy": "YQ"
         },
         {
-          "time": "19:30",
+          "time": "16:00",
           "description": "Check In",
           "location": "Here (the Old Town of Lijiang Store) 此间（丽江古城木府店)",
           "url": "https://www.trip.com/hotels/detail/?hotelId=106139660&checkIn=2024-11-20&checkOut=2024-11-22&locale=en-XX",
-          "cost": 148.88,
+          "cost": 151.66,
           "bookedBy": "YQ"
         },
         {
@@ -260,7 +295,7 @@
       ]
     },
     {
-      "dayTitle": "DAY 10: 21/11 - 丽江 NIGHT 2",
+      "dayTitle": "DAY 10: 19/11 - 丽江 NIGHT 2",
       "activities": [
         {
           "time": "06:00",
@@ -268,8 +303,6 @@
           "location": "玉龙雪山一日游",
           "url": "https://t.ctrip.cn/?4LvJ7H2BE9632",
           "cost": 173.14,
-          "mode": "Revolut Master Card",
-          "fxrate": 5.3832,
           "bookedBy": "ZY"
         },
         {
@@ -283,13 +316,13 @@
       ]
     },
     {
-      "dayTitle": "DAY 11: 22/11 - 大理 NIGHT 1",
+      "dayTitle": "DAY 11: 20/11 - 大理 NIGHT 1",
       "activities": [
         { "time": "08:00", "description": "Check Out Hotel@丽江" },
         {
-          "time": "12:01",
-          "description": "HSR-C378 丽江站 to 大理站",
-          "cost": 50.42,
+          "time": "15:17",
+          "description": "包车 to 大理Hotel",
+          "cost": 0,
           "bookedBy": "YQ"
         },
         {
@@ -313,7 +346,7 @@
       ]
     },
     {
-      "dayTitle": "DAY 12: 23/11 - 大理 NIGHT 2",
+      "dayTitle": "DAY 12: 21/11 - 大理 NIGHT 2",
       "activities": [
         {
           "time": "08:00",
@@ -353,25 +386,13 @@
           "url": "https://www.trip.com/hotels/detail/?cityId=34&hotelId=51601913",
           "cost": 0,
           "bookedBy": "ZY"
+        },
+        {
+          "time": "22:00",
+          "description": "Depart Changi T1",
+          "cost": 1045.42,
+          "bookedBy": "YQ"
         }
-      ]
-    },
-    {
-      "dayTitle": "DAY 14: 25/11 - 昆明 NIGHT 2",
-      "activities": [
-        { "time": "09:00", "description": "Breakfast" },
-        { "time": "10:00", "description": "Shopping at 昆明顺城购物中" }
-      ]
-    },
-    {
-      "dayTitle": "DAY 15: 26/11 - 昆明 No Stay",
-      "activities": [{ "time": "08:00", "description": "Explore" }]
-    },
-    {
-      "dayTitle": "DAY 16: 27/11 - 昆明 > SG",
-      "activities": [
-        { "time": "12:00", "description": "滴滴 to 昆明长水国际机场" },
-        { "time": "03:00", "description": "Fly back SG" }
       ]
     }
   ]
