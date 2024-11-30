@@ -9,6 +9,10 @@ const upload = multer({ dest: "uploads/" });
 app.use(express.static("public"));
 app.use(express.json());
 
+app.get("/", (req, res) => {
+  res.json({ message: "Hello!" });
+});
+
 // Endpoint to upload images
 app.post("/upload", upload.single("file"), (req, res) => {
   const file = req.file;
