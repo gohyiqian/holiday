@@ -1,15 +1,57 @@
 {
-  "title": "Yunnan 15 Days Itinerary",
-  "startDate": "Nov 12, 2024",
-  "endDate": "Nov 27, 2024",
+  "title": "Yunnan 12 Days Itinerary",
+  "startDate": "Nov 13, 2024",
+  "endDate": "Nov 24 2024",
   "days": [
     {
       "dayTitle": "YQ Expenses",
       "activities": [
         {
-          "time": "22:00",
+          "date": "13 Nov",
           "description": "Scoot Air Tickets",
           "cost": 1045.42,
+          "bookedBy": "YQ"
+        },
+        {
+          "date": "12 - 13 Nov",
+          "description": "Hotel at Kunming",
+          "cost": 36.84,
+          "bookedBy": "YQ"
+        },
+        {
+          "date": "15 - 16 Nov",
+          "description": "Hotel at MeiLi",
+          "cost": 224.04,
+          "bookedBy": "YQ"
+        },
+        {
+          "date": "18 - 20 Nov",
+          "description": "Hotel at LiJiang",
+          "cost": 151.66,
+          "bookedBy": "YQ"
+        },
+        {
+          "date": "13 Nov",
+          "description": "Train Kunming to LiJiang",
+          "cost": 86.76,
+          "bookedBy": "YQ"
+        },
+        {
+          "date": "15 Nov",
+          "description": "Train Kunming to LiJiang",
+          "cost": 22.18,
+          "bookedBy": "YQ"
+        },
+        {
+          "date": "18 Nov",
+          "description": "Train Kunming to LiJiang",
+          "cost": 41.82,
+          "bookedBy": "YQ"
+        },
+        {
+          "date": "22 Nov",
+          "description": "Train Kunming to LiJiang",
+          "cost": 92.59,
           "bookedBy": "YQ"
         }
       ]
@@ -18,9 +60,15 @@
       "dayTitle": "ZY Expenses",
       "activities": [
         {
-          "time": "00:00",
-          "description": "Cash",
+          "time": "13 Nov",
+          "description": "Cash Changed",
           "cost": 600,
+          "bookedBy": "ZY"
+        },
+        {
+          "time": "19 Nov",
+          "description": "YuLong Mountain Day Trip",
+          "cost": 173.14,
           "bookedBy": "ZY"
         }
       ]

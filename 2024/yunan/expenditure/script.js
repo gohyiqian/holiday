@@ -83,7 +83,7 @@ function renderExpenses(data) {
       <summary>${day.dayTitle}</summary>
       <table>
         <tr>
-          <th>Time</th>
+          <th>Date</th>
           <th>Description</th>
           <th>Booked By</th>
           <th>Cost</th>
@@ -102,7 +102,7 @@ function renderExpenses(data) {
 
             return `
             <tr>
-              <td>${activity.time}</td>
+              <td>${activity.date}</td>
               <td>
                 ${activity.description} 
                 ${
